@@ -1,0 +1,14 @@
+{
+  "description": "Example protocol evaluation configuration",
+  "protocols": ["TCP_CUBIC", "TCP_BBR", "QUIC_BBR"],
+  "scenarios": [
+    {"name": "rtt-80", "rtt_ms": 80},
+    {"name": "rtt-150", "rtt_ms": 150},
+    {"name": "rtt-237", "rtt_ms": 237.886}
+  ],
+  "capacities_mbps": [0.2, 0.3, 0.5, 1, 2, 3],
+  "packet_loss_rates": [0.001, 0.02, 0.05, 0.1, 0.15],
+  "traffic_mode": "bulk",
+  "file_size_mb": 10,
+  "duration_s": 3
+}
