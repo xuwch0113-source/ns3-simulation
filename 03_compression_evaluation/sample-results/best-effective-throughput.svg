@@ -1,0 +1,29 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="520" viewBox="0 0 1000 520">
+<rect width="100%" height="100%" fill="#fff"/>
+<text x="500.0" y="36" text-anchor="middle" font-family="Arial" font-size="23" font-weight="700">Best compression method effective throughput by data type</text>
+<text x="24" y="230.0" transform="rotate(-90 24 230.0)" text-anchor="middle" font-family="Arial" font-size="14">Effective Mbit/s</text>
+<line x1="90" y1="390" x2="960" y2="390" stroke="#111827" stroke-width="2"/>
+<line x1="90" y1="70" x2="90" y2="390" stroke="#111827" stroke-width="2"/>
+<line x1="90" y1="390.0" x2="960" y2="390.0" stroke="#e5e7eb"/>
+<text x="80" y="394.0" text-anchor="end" font-family="Arial" font-size="12">0.00</text>
+<line x1="90" y1="310.0" x2="960" y2="310.0" stroke="#e5e7eb"/>
+<text x="80" y="314.0" text-anchor="end" font-family="Arial" font-size="12">2.91</text>
+<line x1="90" y1="230.0" x2="960" y2="230.0" stroke="#e5e7eb"/>
+<text x="80" y="234.0" text-anchor="end" font-family="Arial" font-size="12">5.83</text>
+<line x1="90" y1="150.0" x2="960" y2="150.0" stroke="#e5e7eb"/>
+<text x="80" y="154.0" text-anchor="end" font-family="Arial" font-size="12">8.74</text>
+<line x1="90" y1="70.0" x2="960" y2="70.0" stroke="#e5e7eb"/>
+<text x="80" y="74.0" text-anchor="end" font-family="Arial" font-size="12">11.65</text>
+<rect x="104.0" y="265.6" width="200.0" height="124.4" rx="4" fill="#54a24b"/>
+<text x="204.0" y="258.6" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700">4.53</text>
+<text x="204.0" y="414" text-anchor="middle" font-family="Arial" font-size="10">adcp_current_log\ngorilla</text>
+<rect x="318.0" y="254.9" width="200.0" height="135.1" rx="4" fill="#54a24b"/>
+<text x="418.0" y="247.9" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700">4.92</text>
+<text x="418.0" y="414" text-anchor="middle" font-family="Arial" font-size="10">wave_sensor\ngorilla</text>
+<rect x="532.0" y="268.0" width="200.0" height="122.0" rx="4" fill="#54a24b"/>
+<text x="632.0" y="261.0" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700">4.44</text>
+<text x="632.0" y="414" text-anchor="middle" font-family="Arial" font-size="10">weather_csv\ngorilla</text>
+<rect x="746.0" y="70.0" width="200.0" height="320.0" rx="4" fill="#f58518"/>
+<text x="846.0" y="63.0" text-anchor="middle" font-family="Arial" font-size="11" font-weight="700">11.65</text>
+<text x="846.0" y="414" text-anchor="middle" font-family="Arial" font-size="10">weather_tsv\ngzip</text>
+</svg>
